@@ -1,0 +1,2 @@
+siRNA ID	Catalog Number	Gene Symbol	Gene Name	Alias	RefSeq	GenBank mRNA	Product Family	siRNA Type	Availability	siRNA Assay	Matched Keywords
+s89219	4390771	Armc3	armadillo repeat containing 3	4921513G22Rik	NM_001271565.1;NM_001081083.2;NM_001271563.1;NM_001271564.1	AK041744.1;BC145004.1;BC150688.1;BC145005.1;AK014880.1;BC145013.1		Silencer® Select	Made to Order		
